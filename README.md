@@ -17,8 +17,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [done] implemented a search bar 
-* [done] implemented navigation 
+* [done] I added a search bar allowing users to quickly find specific games by name. Easier for users to navigate and find the content they're interested in. I implemented the search bar using the `filter` method to search the game data and display matching results dynamically.
+
+* [done] I also included a navigation bar that allows users to jump to different sections of the site. This improves the overall usability of the site by providing quick access to key areas. The navigation bar was styled using CSS.
 
 ## Video Walkthrough
 
@@ -27,7 +28,7 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+https://imgur.com/iXzFmvm
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -36,8 +37,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-A challenge I encountered building the app was learning to use the needed methods/concepts such as rest, filter, and reduce.
-However, the hardest challenge was making the CSS as I spent half of my time playing around with different sizes and colors for the app.
+One challenge was implementing the `filter`, `reduce`, and `sort` methods in JavaScript to manipulate the game data. Initially, understanding how to use these methods was difficult, but through documentation and practice, I was able to implement these features successfully.
+
+Another challenge was CSS design. I spent a significant amount of time experimenting with different layouts, colors, and sizes to make the site visually appealing. Although this took up almost half of my time, it was valuable experience that improved my design skills.
+
+In terms of time management, I found that splitting my time evenly between functionality and design allowed me to create a well-rounded final product. 
 
 ## License
 
