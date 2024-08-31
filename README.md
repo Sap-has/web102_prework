@@ -39,7 +39,7 @@ https://imgur.com/iXzFmvm
 Describe any challenges encountered while building the app.
 One challenge was implementing the `filter`, `reduce`, and `sort` methods in JavaScript to manipulate the game data. Initially, understanding how to use these methods was difficult, but through documentation and practice, I was able to implement these features successfully.
 
-Another challenge was CSS design. I spent a significant amount of time experimenting with different layouts, colors, and sizes to make the site visually appealing. Although this took up almost half of my time, it was valuable experience that improved my design skills.
+Another challenge was CSS design. I spent a significant amount of time experimenting with different layouts, colors, and sizes to make the site visually appealing. Although this took up quite a bit of time, it was valuable experience that improved my design skills.
 
 In terms of time management, I found that splitting my time evenly between functionality and design allowed me to create a well-rounded final product. 
 
